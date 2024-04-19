@@ -12,3 +12,5 @@ An existing user will be lead to their 3. Homepage, where they can view their fo
 6. Post - To create their own post.
 7. Search User - to look for users and reach out to them via messages. 
 
+Executed on localhost using Xampp local server. 
+
